@@ -1,0 +1,24 @@
+06-09-2020 19:00:12 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 19:01:31 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 19:01:40 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+06-09-2020 19:01:44 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+06-09-2020 19:02:10 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+06-09-2020 19:03:18 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 19:03:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+06-09-2020 19:29:25 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 19:29:27 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+06-09-2020 19:31:01 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 19:31:04 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+06-09-2020 19:56:01 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 19:56:11 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api without authorization token
+06-09-2020 19:56:36 [DEBUG] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api user:undefined(undefined)
+06-09-2020 19:57:14 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 19:57:17 [DEBUG] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api user:undefined(undefined)
+06-09-2020 19:57:41 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 19:58:06 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 20:02:53 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 20:12:19 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh37, ], jwt:undefined
+06-09-2020 20:13:01 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 20:26:43 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 22:10:07 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+06-09-2020 22:30:57 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
