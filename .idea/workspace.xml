@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75803d28-8241-4322-9f81-db8e99293205" name="Default Changelist" comment="" />
+    <list default="true" id="75803d28-8241-4322-9f81-db8e99293205" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/express/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/express/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/express/routes/message.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/express/routes/message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/express/routes/wawebhook.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/express/routes/wawebhook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/loop/MessageWatcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/loop/MessageWatcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/message/MessageModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/message/MessageModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/message/RequestProcessors.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/message/RequestProcessors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/whatsapp/ChatApiHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/whatsapp/ChatApiHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/.74822d9c31da6e60533ba102705d09990333d532-audit.json" beforeDir="false" afterPath="$PROJECT_DIR$/logs/.74822d9c31da6e60533ba102705d09990333d532-audit.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-09-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/2020-09-07.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +27,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1h8rbgneI4fbRHnnp4E9EzghtBy" />
   <component name="ProjectViewState">
@@ -42,7 +59,9 @@
       <option name="presentableId" value="Default" />
       <updated>1599403638166</updated>
       <workItem from="1599403639397" duration="9909000" />
-      <workItem from="1599465577440" duration="19849000" />
+      <workItem from="1599465577440" duration="21835000" />
+      <workItem from="1599498316718" duration="1091000" />
+      <workItem from="1599524495385" duration="458000" />
     </task>
     <servers />
   </component>

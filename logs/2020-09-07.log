@@ -377,3 +377,221 @@
 07-09-2020 16:47:55 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message?sender=whatsapp, body:[], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk0NjYxNzAsImV4cCI6MTU5OTUwOTM3MH0._03Jph72N3MS8k0sh5Qd-FijZYEoKuM-9pMp3sGA6Q0
 07-09-2020 16:48:32 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
 07-09-2020 16:48:32 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:04:13 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:04:13 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:04:37 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:04:37 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:05:13 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], 1: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk0NjYxNzAsImV4cCI6MTU5OTUwOTM3MH0._03Jph72N3MS8k0sh5Qd-FijZYEoKuM-9pMp3sGA6Q0
+07-09-2020 17:05:16 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[messages: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:05:34 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:05:35 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:05:39 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:05:39 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:05:39 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:06:16 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:06:16 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:06:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], 1: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk0NjYxNzAsImV4cCI6MTU5OTUwOTM3MH0._03Jph72N3MS8k0sh5Qd-FijZYEoKuM-9pMp3sGA6Q0
+07-09-2020 17:07:40 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:07:40 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:12:02 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:12:02 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:15:29 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:15:29 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:15:50 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:15:50 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:17:10 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:17:10 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:18:38 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:18:38 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:18:52 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:18:52 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:19:07 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[messages: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:19:10 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:19:11 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:19:18 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:19:18 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 17:19:23 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 17:19:48 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 17:19:48 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 20:23:22 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 20:23:22 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 20:24:28 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/ping, body:[], jwt:undefined
+07-09-2020 20:24:54 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 20:24:54 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 20:24:56 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/ping, body:[], jwt:undefined
+07-09-2020 20:24:56 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api/ping without authorization token
+07-09-2020 20:25:09 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 20:25:16 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/ping, body:[], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk0OTk1MDksImV4cCI6MTU5OTU0MjcwOX0.rT-xY9HDufTcMVuvv-jy6y41A2EQsCYIQXofI39sJIg
+07-09-2020 20:26:35 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 20:26:35 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 22:36:56 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:36:56 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:38:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:38:20 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:39:19 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:39:19 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:40:18 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:40:18 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:40:48 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:40:48 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:41:13 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:41:13 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:41:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:41:20 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:41:32 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:41:32 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:42:14 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:42:14 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:42:14 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:undefined
+07-09-2020 22:42:14 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api/message without authorization token
+07-09-2020 22:42:14 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:42:14 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:42:46 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:42:46 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:42:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:42:59 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:42:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:undefined
+07-09-2020 22:42:59 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api/message without authorization token
+07-09-2020 22:42:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:42:59 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:43:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:43:22 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:43:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:undefined
+07-09-2020 22:43:22 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api/message without authorization token
+07-09-2020 22:43:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:43:22 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:44:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:44:22 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:44:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:undefined
+07-09-2020 22:44:22 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api/message without authorization token
+07-09-2020 22:44:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:44:22 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:44:41 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:44:41 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:44:41 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:undefined
+07-09-2020 22:44:41 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api/message without authorization token
+07-09-2020 22:44:41 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:44:41 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:44:50 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:44:50 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:44:50 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:undefined
+07-09-2020 22:44:50 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api/message without authorization token
+07-09-2020 22:44:50 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:44:50 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:44:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:44:59 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:44:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:undefined
+07-09-2020 22:44:59 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] request:/api/message without authorization token
+07-09-2020 22:44:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:44:59 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:48:25 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:48:25 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:48:25 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:48:25 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:48:25 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:48:57 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:48:57 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:48:57 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:48:57 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:48:57 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:49:46 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:49:46 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:49:46 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:49:46 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:49:46 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:50:13 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:50:13 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:50:13 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:50:13 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:50:13 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:51:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:51:20 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:51:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:51:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:51:20 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:51:33 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:51:33 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:51:33 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:51:33 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:51:33 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:52:07 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:52:07 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:52:07 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:52:07 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:52:07 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:52:19 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:52:19 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:52:19 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:52:19 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:52:19 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:52:19 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:52:40 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:52:40 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:52:40 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:52:40 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:52:40 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:52:40 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:52:58 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:52:58 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:52:58 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:52:58 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:52:58 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:52:58 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:53:08 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:53:08 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:53:08 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:53:08 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:53:08 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:53:08 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:53:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:53:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:53:22 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:53:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 22:53:22 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[], jwt:[object Object]
+07-09-2020 22:53:22 [WARN] [D:\Projects\messages service\lib\express\verifyToken.js] jwt malformed
+07-09-2020 22:54:14 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 23:03:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 23:03:20 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/ping, body:[], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk0OTk1MDksImV4cCI6MTU5OTU0MjcwOX0.rT-xY9HDufTcMVuvv-jy6y41A2EQsCYIQXofI39sJIg
+07-09-2020 23:03:34 [INFO] [D:\Projects\messages service\index.js] Mongo Connected
+07-09-2020 23:03:34 [INFO] [D:\Projects\messages service\lib\loop\MessageWatcher.js] Message watcher started...
+07-09-2020 23:03:44 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 23:04:04 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[], jwt:undefined
+07-09-2020 23:05:02 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:05:37 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:06:11 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:06:29 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:06:29 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDkxODksImV4cCI6MTU5OTU1MjM4OX0.UIeNj84iD4B13SSGsHxhoRFAFgRl1Fe3mgk_ZOJXIFg
+07-09-2020 23:06:29 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:07:32 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:07:32 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDkyNTIsImV4cCI6MTU5OTU1MjQ1Mn0.zyjQTVjVF40fGUcH6eIEohyxRKoI6PR_F0ZJQbbOyu4
+07-09-2020 23:07:32 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:07:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:07:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDkyNzksImV4cCI6MTU5OTU1MjQ3OX0.3QkWdIZ6IBw27Pepo3yj0eBSHFDSS88DEP-VlUmXSik
+07-09-2020 23:07:59 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:08:23 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:08:23 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDkzMDMsImV4cCI6MTU5OTU1MjUwM30.7vcw5osBWrh9uQeD8AxAgLYywOMXKdK54E5UeyLAdG0
+07-09-2020 23:08:23 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:08:50 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:08:50 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDkzMzAsImV4cCI6MTU5OTU1MjUzMH0.llQvTHQSHsEc8fUiLOvOTBujGr-dD0uYMufJ93IHa8U
+07-09-2020 23:08:50 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:09:08 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:09:08 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDkzNDgsImV4cCI6MTU5OTU1MjU0OH0.6ynYdzMS8Nk9WwmkXBU7H4XP5SZFzv7G1DwoRm2pB1E
+07-09-2020 23:09:08 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:09:44 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:09:44 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDkzODQsImV4cCI6MTU5OTU1MjU4NH0.pjSYDTSRjeV_72Z8brP2HA15-YfFsZBSolB0-_JMNjA
+07-09-2020 23:09:44 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:10:24 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:10:24 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDk0MjQsImV4cCI6MTU5OTU1MjYyNH0.IAIBugXOB1Y0CeF1yeHC25-cKwZL2Ea8IpgejXo52bM
+07-09-2020 23:10:24 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:10:41 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:10:41 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDk0NDEsImV4cCI6MTU5OTU1MjY0MX0.wOxVQeumdfEM93BERNSr2PtfBg6YjiqlU2izMIKsK58
+07-09-2020 23:10:41 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:10:49 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:10:50 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDk0NTAsImV4cCI6MTU5OTU1MjY1MH0.Vr2cMhEcabaidoZeeddjYcRNUJZ-QRPSt9KQ2Lt7QFE
+07-09-2020 23:10:50 [ERROR] [D:\Projects\messages service\lib\express\responseHandlers.js] request: /api/message, status:(400) message:Nothing loaded
+07-09-2020 23:12:32 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/auth, body:[user: admin, password: Wsh3, ], jwt:undefined
+07-09-2020 23:12:33 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/message, body:[0: [object Object], ], jwt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjU1MGU1NTE2NTRkYzFiODExNmZiYWEiLCJpYXQiOjE1OTk1MDk1NTIsImV4cCI6MTU5OTU1Mjc1Mn0.MyJx9UBkOA1kwrKes4BaWQoJ3tsz_UQzpW-ngX1T02A
+07-09-2020 23:12:36 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[messages: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 23:12:58 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 23:12:59 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
+07-09-2020 23:13:02 [DEBUG] [D:\Projects\messages service\lib\express\api.js] request:/api/wawebhook, body:[ack: [object Object], instanceId: 156066, ], jwt:undefined
